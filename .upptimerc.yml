@@ -27,8 +27,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.heroin.trade 
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/xqtc161/status-heroin-trade/refs/heads/master/assets/uwu.jpg 
+  name: status.heroin.trade 
   introTitle: "Service Status Page" 
   introMessage: All these services run on the same host. Kinda unstable. I should not be trusted with computers. 
   navbar:
