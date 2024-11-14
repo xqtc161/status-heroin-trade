@@ -9,11 +9,18 @@ sites:
     url: https://jellyfin.heroin.trade
   - name: Forgejo 
     url: https://git.heroin.trade 
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
+  - name: Nextcloud
+    url: https://cloud.heroin.trade
+  - name: Grafana
+    url: https://grafana.heroin.trade
+  - name: Lanraragi
+    url: https://calibre.heroin.trade
+  - name: Demo Fileserver
+    url: https://demos.heroin.trade
+  - name: marie.software
+    url: https://marie.software
+  - name: juvi.likes.graphics 
+    url: https://juvi.likes.graphics
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,6 +36,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: About
+      href: https://heroin.trade
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
