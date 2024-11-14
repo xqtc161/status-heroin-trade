@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: heroin.trade 
-    url: https://www.heroin.trade
+    url: https://heroin.trade
   - name: Jellyfin 
     url: https://jellyfin.heroin.trade
   - name: Forgejo 
