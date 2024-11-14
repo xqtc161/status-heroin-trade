@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/heroin.trade.ico",
     "slug": "heroin-trade",
     "status": "up",
-    "uptime": "4.15%",
-    "uptimeDay": "4.15%",
-    "uptimeWeek": "4.15%",
-    "uptimeMonth": "4.15%",
-    "uptimeYear": "4.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1014,
     "timeDay": 1014,
     "timeWeek": 1014,
     "timeMonth": 1014,
     "timeYear": 1014,
-    "dailyMinutesDown": {
-      "2024-11-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
