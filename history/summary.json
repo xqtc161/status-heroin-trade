@@ -1,22 +1,22 @@
 [
   {
     "name": "heroin.trade",
-    "url": "https://www.heroin.trade",
-    "icon": "https://icons.duckduckgo.com/ip3/www.heroin.trade.ico",
+    "url": "https://heroin.trade",
+    "icon": "https://icons.duckduckgo.com/ip3/heroin.trade.ico",
     "slug": "heroin-trade",
-    "status": "down",
-    "uptime": "15.46%",
-    "uptimeDay": "15.46%",
-    "uptimeWeek": "15.46%",
-    "uptimeMonth": "15.46%",
-    "uptimeYear": "15.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.15%",
+    "uptimeDay": "4.15%",
+    "uptimeWeek": "4.15%",
+    "uptimeMonth": "4.15%",
+    "uptimeYear": "4.15%",
+    "time": 1014,
+    "timeDay": 1014,
+    "timeWeek": 1014,
+    "timeMonth": 1014,
+    "timeYear": 1014,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1607,
-    "timeDay": 1607,
-    "timeWeek": 1607,
-    "timeMonth": 1607,
-    "timeYear": 1607,
+    "time": 1246,
+    "timeDay": 1246,
+    "timeWeek": 1246,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1406,
-    "timeDay": 1406,
-    "timeWeek": 1406,
-    "timeMonth": 1406,
-    "timeYear": 1406,
+    "time": 1140,
+    "timeDay": 1140,
+    "timeWeek": 1140,
+    "timeMonth": 1140,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   }
 ]
