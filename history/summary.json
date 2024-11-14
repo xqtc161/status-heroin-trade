@@ -94,18 +94,20 @@
     "url": "https://calibre.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.heroin.trade.ico",
     "slug": "lanraragi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1009,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1072,
+    "timeDay": 1072,
+    "timeWeek": 1072,
+    "timeMonth": 1072,
+    "timeYear": 1072,
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "Demo Fileserver",
