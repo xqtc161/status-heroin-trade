@@ -13,8 +13,8 @@ sites:
     url: https://cloud.heroin.trade
   - name: Grafana
     url: https://grafana.heroin.trade
-  - name: Lanraragi
-    url: https://calibre.heroin.trade
+  # - name: Lanraragi
+  #   url: https://calibre.heroin.trade
   - name: Demo Fileserver
     url: https://demos.heroin.trade
   - name: marie.software
