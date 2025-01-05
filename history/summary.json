@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 2393,
-    "timeWeek": 1035,
-    "timeMonth": 996,
-    "timeYear": 978,
+    "time": 984,
+    "timeDay": 1871,
+    "timeWeek": 1070,
+    "timeMonth": 1006,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1036,
-    "timeDay": 1303,
-    "timeWeek": 905,
-    "timeMonth": 944,
-    "timeYear": 1036,
+    "time": 1048,
+    "timeDay": 1563,
+    "timeWeek": 1020,
+    "timeMonth": 969,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2024-12-27": 21
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1496,
-    "timeWeek": 1601,
-    "timeMonth": 1042,
-    "timeYear": 1009,
+    "time": 1015,
+    "timeDay": 1448,
+    "timeWeek": 1576,
+    "timeMonth": 1052,
+    "timeYear": 1015,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1199,
-    "timeDay": 1906,
-    "timeWeek": 1246,
-    "timeMonth": 1180,
-    "timeYear": 1199,
+    "time": 1198,
+    "timeDay": 1525,
+    "timeWeek": 1233,
+    "timeMonth": 1179,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2024-12-27": 21
     }
@@ -86,33 +86,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 6577,
-    "timeWeek": 1800,
-    "timeMonth": 1286,
-    "timeYear": 1231,
+    "time": 1239,
+    "timeDay": 4141,
+    "timeWeek": 1788,
+    "timeMonth": 1298,
+    "timeYear": 1239,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Lanraragi",
-    "url": "https://calibre.heroin.trade",
-    "icon": "https://icons.duckduckgo.com/ip3/calibre.heroin.trade.ico",
-    "slug": "lanraragi",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
-    "time": 948,
-    "timeDay": 1428,
-    "timeWeek": 984,
-    "timeMonth": 865,
-    "timeYear": 948,
-    "dailyMinutesDown": {
-      "2024-12-27": 21,
-      "2024-11-14": 24
-    }
   },
   {
     "name": "Demo Fileserver",
@@ -125,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 1709,
-    "timeWeek": 915,
-    "timeMonth": 805,
-    "timeYear": 856,
+    "time": 867,
+    "timeDay": 1624,
+    "timeWeek": 993,
+    "timeMonth": 827,
+    "timeYear": 867,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 873,
-    "timeWeek": 699,
-    "timeMonth": 670,
-    "timeYear": 692,
+    "time": 698,
+    "timeDay": 953,
+    "timeWeek": 741,
+    "timeMonth": 681,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -161,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 1114,
-    "timeWeek": 931,
-    "timeMonth": 817,
-    "timeYear": 839,
+    "time": 843,
+    "timeDay": 1104,
+    "timeWeek": 952,
+    "timeMonth": 826,
+    "timeYear": 843,
     "dailyMinutesDown": {}
   }
 ]
