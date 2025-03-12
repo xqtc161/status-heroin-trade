@@ -4,10 +4,10 @@
     "url": "https://heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/heroin.trade.ico",
     "slug": "heroin-trade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 975,
@@ -15,17 +15,19 @@
     "timeWeek": 976,
     "timeMonth": 1028,
     "timeYear": 975,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 2
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.heroin.trade.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1012,
@@ -34,6 +36,7 @@
     "timeMonth": 962,
     "timeYear": 1012,
     "dailyMinutesDown": {
+      "2025-03-12": 1,
       "2024-12-27": 21
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://git.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/git.heroin.trade.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 968,
@@ -53,17 +56,19 @@
     "timeWeek": 855,
     "timeMonth": 917,
     "timeYear": 968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 1
+    }
   },
   {
     "name": "Nextcloud",
     "url": "https://cloud.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.heroin.trade.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1189,
@@ -72,6 +77,7 @@
     "timeMonth": 1127,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2025-03-12": 1,
       "2025-01-07": 103,
       "2024-12-27": 21
     }
@@ -81,10 +87,10 @@
     "url": "https://grafana.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.heroin.trade.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1201,
@@ -92,16 +98,18 @@
     "timeWeek": 1071,
     "timeMonth": 1177,
     "timeYear": 1201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 1
+    }
   },
   {
     "name": "Demo Fileserver",
     "url": "https://demos.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/demos.heroin.trade.ico",
     "slug": "demo-fileserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,16 +118,18 @@
     "timeWeek": 745,
     "timeMonth": 941,
     "timeYear": 930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   },
   {
     "name": "marie.software",
     "url": "https://marie.software",
     "icon": "https://icons.duckduckgo.com/ip3/marie.software.ico",
     "slug": "marie-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,16 +138,18 @@
     "timeWeek": 573,
     "timeMonth": 635,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   },
   {
     "name": "juvi.likes.graphics",
     "url": "https://juvi.likes.graphics",
     "icon": "https://icons.duckduckgo.com/ip3/juvi.likes.graphics.ico",
     "slug": "juvi-likes-graphics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,6 +158,8 @@
     "timeWeek": 677,
     "timeMonth": 879,
     "timeYear": 842,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   }
 ]
