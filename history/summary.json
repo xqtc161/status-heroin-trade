@@ -4,10 +4,10 @@
     "url": "https://heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/heroin.trade.ico",
     "slug": "heroin-trade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
@@ -15,17 +15,19 @@
     "timeWeek": 865,
     "timeMonth": 992,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 2
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.heroin.trade.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1011,
@@ -34,6 +36,7 @@
     "timeMonth": 953,
     "timeYear": 1011,
     "dailyMinutesDown": {
+      "2025-03-15": 1,
       "2024-12-27": 21
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://git.heroin.trade",
     "icon": "https://icons.duckduckgo.com/ip3/git.heroin.trade.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 960,
@@ -53,7 +56,9 @@
     "timeWeek": 772,
     "timeMonth": 889,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 1
+    }
   },
   {
     "name": "Nextcloud",
