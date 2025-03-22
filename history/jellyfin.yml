@@ -1,7 +1,7 @@
 url: https://jellyfin.heroin.trade
-status: down
-code: 502
-responseTime: 1849
-lastUpdated: 2025-03-22T19:18:32.222Z
+status: up
+code: 200
+responseTime: 1237
+lastUpdated: 2025-03-22T19:26:44.714Z
 startTime: 2024-11-14T14:13:09.259Z
 generator: Upptime <https://github.com/upptime/upptime>
