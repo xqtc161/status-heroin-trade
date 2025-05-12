@@ -128,9 +128,9 @@
     "url": "https://marie.software",
     "icon": "https://icons.duckduckgo.com/ip3/marie.software.ico",
     "slug": "marie-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,7 +139,9 @@
     "timeWeek": 643,
     "timeMonth": 660,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   },
   {
     "name": "juvi.likes.graphics",
