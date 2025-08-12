@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demos.heroin.trade.ico",
     "slug": "demo-fileserver",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.69%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "99.69%",
     "time": 1122,
     "timeDay": 1037,
     "timeWeek": 1054,
     "timeMonth": 2131,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-08-12": 1,
+      "2025-08-12": 9,
       "2025-08-11": 75,
       "2025-07-16": 410,
       "2025-07-15": 634,
@@ -160,9 +160,9 @@
     "slug": "marie-software",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 684,
     "timeDay": 950,
@@ -170,7 +170,7 @@
     "timeMonth": 725,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-08-12": 0,
+      "2025-08-12": 8,
       "2025-08-11": 75
     }
   },
@@ -179,10 +179,10 @@
     "url": "https://juvi.likes.graphics",
     "icon": "https://icons.duckduckgo.com/ip3/juvi.likes.graphics.ico",
     "slug": "juvi-likes-graphics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.79%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 861,
@@ -191,6 +191,7 @@
     "timeMonth": 917,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2025-08-12": 0,
       "2025-08-11": 75
     }
   }
