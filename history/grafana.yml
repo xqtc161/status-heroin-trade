@@ -1,7 +1,7 @@
 url: https://grafana.heroin.trade
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-06T15:30:57.098Z
+status: up
+code: 200
+responseTime: 1178
+lastUpdated: 2025-11-06T15:40:52.758Z
 startTime: 2024-11-14T15:06:47.836Z
 generator: Upptime <https://github.com/upptime/upptime>
